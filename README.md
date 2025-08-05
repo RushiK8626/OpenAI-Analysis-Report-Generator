@@ -8,12 +8,12 @@ Built as part of the **IIT Jammu Summer School Program**.
 
 ## 🚀 Features
 
-- 📁 Upload files in formats like `.pdf`, `.docx`, `.pptx`, `.xlsx`, `.csv`, `.txt`
-- 🤖 Automatically extracts and summarizes content using OpenAI LLMs
-- 📊 Generates smart visualizations using `matplotlib`, `seaborn`, and `plotly`
-- 📝 Produces downloadable PDF reports with clean formatting
-- 🖥️ Gradio interface for easy interaction
-- 📐 Multiple report depth options: `brief`, `standard`, `comprehensive`, `detailed`
+-  Upload files in formats like `.pdf`, `.docx`, `.pptx`, `.xlsx`, `.csv`, `.txt`
+-  Automatically extracts and summarizes content using OpenAI LLMs
+-  Generates smart visualizations using `matplotlib`, `seaborn`, and `plotly`
+-  Produces downloadable PDF reports with clean formatting
+-  Gradio interface for easy interaction
+-  Multiple report depth options: `brief`, `standard`, `comprehensive`, `detailed`
 
 ---
 
