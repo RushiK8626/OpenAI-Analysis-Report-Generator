@@ -1,0 +1,10 @@
+gradio
+pandas
+matplotlib
+seaborn
+openai
+reportlab
+python-docx
+python-pptx
+numpy
+plotly
