@@ -20,7 +20,7 @@ Built as part of the **IIT Jammu Summer School Program**.
 ### 🛠️ Tech Stack
 
 - Python 3
-- OpenAI API
+- OpenAI API / Gemini API
 - Gradio
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
