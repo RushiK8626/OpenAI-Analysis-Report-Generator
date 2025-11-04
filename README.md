@@ -1,4 +1,4 @@
-## 📊 OpenAI Report Generator
+## 📊 AI Report Generator with Visualization
 
 An AI-powered report generation tool that accepts various file formats and produces structured, insightful reports with visualizations—powered by **OpenAI** and presented through a **Gradio** interface.
 
